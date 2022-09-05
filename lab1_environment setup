@@ -1,0 +1,15 @@
+
+
+The screenshot above shows successful ping of champlain.edu
+
+The screenshot above shows the successful search of champlain.edu on the wks01 system.
+The screenshot below shows successful invoking of powershell and output of commands: whoami,hostname,ping and ipconfig.
+
+
+The screenshot below shows the use of 3 hops in the tracert command.
+
+
+Technical terms I was unfamiliar with
+What is internet protocol and how much can it be altered without damaging connectivity.
+What makes up a web interface and do they sometimes have gui or not.
+What is DHCP and why was it not configured.
