@@ -1,12 +1,6 @@
+Setting up a home lab in Cybersecurity is useful for testing out various applications and carrying out activities. 
+A controlled environment is necessary to ensure that your desktop remains protected.
 
-
-The screenshot above shows successful ping of champlain.edu
-
-The screenshot above shows the successful search of champlain.edu on the wks01 system.
-The screenshot below shows successful invoking of powershell and output of commands: whoami,hostname,ping and ipconfig.
-
-
-The screenshot below shows the use of 3 hops in the tracert command.
 
 
 Technical terms I was unfamiliar with
